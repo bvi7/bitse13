@@ -1,0 +1,22 @@
+body { 
+background: #F9CDAD;
+padding: 20px;
+}
+
+h1, h3 { 
+font-family: open sans;
+font-size: 40px;
+text-decoration: overline;
+text-transform: uppercase;
+}
+
+h3 { text-decoration: none !important; 
+  text-align: right;}
+
+span { 
+font-size: 15px;
+font-family: sans-serif; 
+letter-spacing: 0.5px;
+}
+
+
